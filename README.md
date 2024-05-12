@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sallam</h1>
 <h3 align="center">Full stack.net developer</h3>
 
-- 🔭 I’m currently working in Z2Data [App Project](https://app.z2data.com/)
+- 🔭 I’m currently working in Z2Data [App Project](https://www.z2data.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
